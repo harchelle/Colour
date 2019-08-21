@@ -4,7 +4,7 @@ body {
 
 label {
 	color: white;
-	font-size: 20px;
+	font-size: 60px;
 	font-weight: bold;
 	-webkit-transition: .3s; 
     transition: color .3s
@@ -32,21 +32,21 @@ label {
     display: block;
     border: none;
     width: 50vw; 
-    height: 4px; 
+    height: 12px; 
     background: white; 
     outline: none; 
     -webkit-transition: .2s; 
     transition: background .2s;
-    margin: 25px;
+    margin: 75px;
 }
 
 .colorPicker input::-webkit-slider-thumb {
     -webkit-appearance: none; 
     appearance: none;
-    width: 25px; 
-    height: 25px;
+    width: 75px; 
+    height: 75px;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 60px;
     background: white; 
     cursor: pointer; 
 }

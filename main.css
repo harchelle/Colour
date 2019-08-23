@@ -1,0 +1,30 @@
+body {
+  background-color: #3ce6de;
+  text-align: center;
+}
+#main {
+  width: 80%;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 2%;
+  background-color: rgb(58, 209, 45);
+  display: inline-block;
+  height: 100%;
+  color: white;
+  font-size: 70px;
+}
+
+h3 {
+  color: black;
+}
+
+button {
+  height: 30px;
+  border-radius: 5%;
+  height: 70px;
+  width: 110px;
+  font-size: 50px;
+}
+
+input {
+  font-size: 70px;
+}
